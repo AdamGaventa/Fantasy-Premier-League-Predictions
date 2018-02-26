@@ -11,4 +11,4 @@ A project to predict points in fantasy football (soccer).
 Able to predict points to reasonable degree of accuracy 6 weeks ahead.
 Limited practical use until combined with a game-theoretic strategy to choose players
 
-[Jupyter notebook project](Fantasy Premier League predictions.ipynb)
+[Jupyter notebook project](/https://github.com/AdamGaventa/Fantasy-Premier-League-Predictions/blob/master/Fantasy%20Premier%20League%20predictions.ipynb)
